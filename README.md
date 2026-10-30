@@ -77,3 +77,5 @@ Resume and job description text are sent from the browser to the backend serverl
 ## Author
 
 **Plabon Basak**
+
+ApnoAI AI/ML Intern · October 2026
